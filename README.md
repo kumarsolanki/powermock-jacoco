@@ -1,0 +1,1 @@
+Project is created to test Jacoco + PowerMock (fixed version with ignoring synthetic methods)
